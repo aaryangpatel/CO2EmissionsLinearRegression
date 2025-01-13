@@ -1,27 +1,47 @@
-# CO2 Emissions Predictions using Linear Regression
+# CO2 Emissions Predictions using Regression
 ## Aaryan Patel CSC590 C Format
 
-### Original Data
+## Linear Regression:
 
-β₀: 451.2636337205497
+### - Original Data
 
-β₁: -7.301921632712012
+* β₀: 453.3087
 
-Original MAE: 16.20769624752921
+* β₁: -7.3733
 
-### Normalized Data
+* Original MAE: 16.0917
 
-Normalized β₀: 0.645404919626097
+### - Normalized Data
 
-Normalized β₁: -0.9941583443598496
+* Normalized β₀: 0.6484
 
-Normalized MAE: 0.03995706457205847
+* Normalized β₁: -1.0039
 
-### Standardized Data
+* Normalized MAE: 0.0635
 
-Standardized β₀: 2.612490786538427e-16
+### - Standardized Data
 
-Standardized β₁: -0.9072422605164624
+* Standardized β₀: -0.0
 
-Standardized MAE: 0.27390555093061847
+* Standardized β₁: -0.9094
+
+* Standardized MAE: 0.2869
+
+## Polynomial Regression:
+
+* α: 0.1375
+
+* β: -15.8948
+
+* γ: 576.4121
+
+* MAE: 11.1631
+
+## Logarithmic Regression:
+
+* α: -212.4693
+
+* β: 947.62
+
+* MAE: 12.3332
 
