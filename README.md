@@ -5,43 +5,43 @@
 
 ### - Original Data
 
-* β₀: 453.9089
+* β₀: 452.3632
 
-* β₁: -7.3917
+* β₁: -7.3447
 
-* Original MAE: 16.3596
+* Original MAE: 15.9318
 
 ### - Normalized Data
 
-* Normalized β₀: 0.6493
+* Normalized β₀: 0.6469
 
-* Normalized β₁: -1.0064
+* Normalized β₁: -1.0
 
-* Normalized MAE: 0.0417
+* Normalized MAE: 0.0688
 
 ### - Standardized Data
 
-* Standardized β₀: -0.0
+* Standardized β₀: 0.0
 
-* Standardized β₁: -0.9072
+* Standardized β₁: -0.9066
 
-* Standardized MAE: 0.2755
+* Standardized MAE: 0.2771
 
 ## Polynomial Regression:
 
-* α: 0.1402
+* α: 0.1375
 
-* β: -16.0629
+* β: -15.8792
 
-* γ: 578.9511
+* γ: 575.8897
 
-* MAE: 10.3054
+* MAE: 10.7158
 
 ## Logarithmic Regression:
 
-* α: -213.1351
+* α: -212.1186
 
-* β: 949.8836
+* β: 946.3357
 
-* MAE: 11.5348
+* MAE: 11.8865
 
